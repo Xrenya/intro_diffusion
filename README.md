@@ -1,4 +1,4 @@
-# Introduction into DDPM
+# Introduction DDPM
 
 Introduction into diffusion models
 
