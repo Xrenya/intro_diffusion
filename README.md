@@ -1,4 +1,4 @@
-# Introduction DDPM
+# Introduction to Denoising Diffusion Probabilistic Models [DDPM]
 
 Introduction into diffusion models
 
