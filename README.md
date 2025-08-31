@@ -12,3 +12,16 @@ Introduction into diffusion models
 ![](assets/animation.gif)
 ### Conditional generation:
 ![](assets/conditional_animation.gif)
+
+#### Mix contexts
+```python
+context = torch.tensor([
+    # hero, non-hero, food, spell, side-facing
+    [0.7, 0, 0, 0, 0.3],
+    [0.6, 0, 0, 0, 0.4],
+    [0.5, 0, 0, 0, 0.5],
+    [0.4, 0, 0, 0, 0.6],
+    [0.3, 0, 0, 0, 0.3],
+])
+```
+![](assets/hero.png)
