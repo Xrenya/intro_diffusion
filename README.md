@@ -13,6 +13,8 @@ Introduction into diffusion models
 ![](assets/animation.gif)
 ### Conditional generation:
 ![](assets/conditional_animation.gif)
+### DDIMl generation:
+![](assets/ddim.gif)
 
 #### Mix contexts
 ```python
