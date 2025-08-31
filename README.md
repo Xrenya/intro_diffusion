@@ -8,5 +8,7 @@ Introduction into diffusion models
    - [Colab DDPM #2](https://colab.research.google.com/github/Xrenya/intro_diffusion/blob/master/ddpm_2.ipynb)
    - [Colab DDPM #3](https://colab.research.google.com/github/Xrenya/intro_diffusion/blob/master/ddpm_3.ipynb)
 
-## Unconditional generation:
+### Unconditional generation:
 ![](assets/animation.gif)
+### Conditional generation:
+![](assets/conditional_animation.gif)
