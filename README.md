@@ -28,3 +28,7 @@ context = torch.tensor([
 ])
 ```
 ![](assets/hero.png)
+
+Papers:
+1. [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
+2. [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)
